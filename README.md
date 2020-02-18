@@ -7,7 +7,8 @@ My research interests lie at the intersection of political economy of internatio
 ### Publication Records
 
 Kang, Siqin and Zhu, Jiangnan, Do People Trust the Government More? Unpacking the Distinct Impacts of Anticorruption Policies on Political Trust. Political Research Quarterly. Accepted. 
-  [Data for replication]:(https://drive.google.com/open?id=1Ocwvy0CS3ZCxBX1sShvBQYwZW3uKkUUF)
+  <a href="https://drive.google.com/open?id=1Ocwvy0CS3ZCxBX1sShvBQYwZW3uKkUUF">Data for replication</a>
+  
 Zweig, David, Kang, Siqin and Wang, Huiyao, The Best Is yet to Come: State Programs, Institutional Culture and Reverse Migration of High-Level Talent to China. Journal of Contemporary China. Forthcoming.
 Jiang, Wenran, Zweig, David and Kang, Siqin, 2016 “The True North Strong and Full of Energy,” in David Zweig and Hao Yufan, eds., Sino-U.S. Energy Triangles: Resource Diplomacy under Hegemony (London: Routledge).
 
