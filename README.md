@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Kang Siqin's Home
 
-You can use the [editor on GitHub](https://github.com/kang8mao/siqin.kang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PhD Student Politics and Public Administration Department, University of Hong Kong
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests lie at the intersection of political economy of international migration and authoritarian politics, with a special focus on China.
 
-### Markdown
+### Publication Records
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kang, Siqin and Zhu, Jiangnan, Do People Trust the Government More? Unpacking the Distinct Impacts of Anticorruption Policies on Political Trust. Political Research Quarterly. Accepted. 
+  [Data for replication]:(https://drive.google.com/open?id=1Ocwvy0CS3ZCxBX1sShvBQYwZW3uKkUUF)
+Zweig, David, Kang, Siqin and Wang, Huiyao, The Best Is yet to Come: State Programs, Institutional Culture and Reverse Migration of High-Level Talent to China. Journal of Contemporary China. Forthcoming.
+Jiang, Wenran, Zweig, David and Kang, Siqin, 2016 “The True North Strong and Full of Energy,” in David Zweig and Hao Yufan, eds., Sino-U.S. Energy Triangles: Resource Diplomacy under Hegemony (London: Routledge).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Kang, Siqin, Lin, Fen and Wu, Muluan. National local identity division and policy preference in Hong Kong. Working paper.
+Chan, Kwan Nok, Zhu, Jiangnan and Kang, Siqin, Organizing Authoritarian Oversight: Central Inspections in China’s Anticorruption Enforcement. Submitted to Journal of Politics. Under Review.
+Kang, Siqin and Zweig, David. Does national talent program boost scientific collaboration? Evidence from China’s Thousand Talent Program. Working paper.
 
-- Bulleted
-- List
+### Conference Presentation
 
-1. Numbered
-2. List
+Chan, Kwan Nok, Zhu, Jiangnan and Kang, Siqin, Organizing Authoritarian Oversight: Central Inspections in China’s Anticorruption Enforcement. Midwest Political Science Association Annual Meeting. 2019
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Work in Progress
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kang8mao/siqin.kang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kang, Siqin, Lin, Fen and Wu, Muluan. National local identity division and policy preference in Hong Kong. Working paper.
+Chan, Kwan Nok, Zhu, Jiangnan and Kang, Siqin, Organizing Authoritarian Oversight: Central Inspections in China’s Anticorruption Enforcement. Submitted to Journal of Politics. Under Review.
+Kang, Siqin and Zweig, David. Does national talent program boost scientific collaboration? Evidence from China’s Thousand Talent Program. Working paper.
