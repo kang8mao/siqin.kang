@@ -13,10 +13,6 @@ Zweig, David, Kang, Siqin and Wang, Huiyao, The Best Is yet to Come: State Progr
 Jiang, Wenran, Zweig, David and Kang, Siqin, 2016 “The True North Strong and Full of Energy,” in David Zweig and Hao Yufan, eds., Sino-U.S. Energy Triangles: Resource Diplomacy under Hegemony (London: Routledge).
 
 
-Kang, Siqin, Lin, Fen and Wu, Muluan. National local identity division and policy preference in Hong Kong. Working paper.
-Chan, Kwan Nok, Zhu, Jiangnan and Kang, Siqin, Organizing Authoritarian Oversight: Central Inspections in China’s Anticorruption Enforcement. Submitted to Journal of Politics. Under Review.
-Kang, Siqin and Zweig, David. Does national talent program boost scientific collaboration? Evidence from China’s Thousand Talent Program. Working paper.
-
 ### Conference Presentation
 
 Chan, Kwan Nok, Zhu, Jiangnan and Kang, Siqin, Organizing Authoritarian Oversight: Central Inspections in China’s Anticorruption Enforcement. Midwest Political Science Association Annual Meeting. 2019
