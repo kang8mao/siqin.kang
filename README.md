@@ -1,6 +1,8 @@
 ## Kang Siqin's Home
 
-PhD Student Politics and Public Administration Department, University of Hong Kong
+PhD Student,
+Politics and Public Administration Department
+University of Hong Kong
 
 My research interests lie at the intersection of political economy of international migration and authoritarian politics, with a special focus on China.
 
